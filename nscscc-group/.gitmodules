@@ -1,0 +1,6 @@
+[submodule "system_test_v0.01"]
+	path = system_test_v0.01
+	url = https://gitee.com/cheungxi/system_test.git
+[submodule "soc_run_os_v0.01/soc_up/pmon_and_linux/linux-2.6.32"]
+	path = soc_run_os_v0.01/soc_up/pmon_and_linux/linux-2.6.32
+	url = https://gitee.com/cheungxi/linux-2.6.32
